@@ -6,8 +6,8 @@ The contents of these update packages are copyright ZWO&mdash;I make no claims o
 
 ## Table of contents/versions
 
-- v2.95
-- v3.58
-- v7.06
-- v7.18
-- v7.32
+- [v2.95](https://github.com/cgobat/seestar-firmware-archive/releases/tag/v2.95)
+- [v3.58](https://github.com/cgobat/seestar-firmware-archive/releases/tag/v3.58)
+- [v7.06](https://github.com/cgobat/seestar-firmware-archive/releases/tag/v7.06)
+- [v7.18](https://github.com/cgobat/seestar-firmware-archive/releases/tag/v7.18)
+- [v7.32](https://github.com/cgobat/seestar-firmware-archive/releases/tag/v7.32)
