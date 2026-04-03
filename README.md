@@ -6,5 +6,6 @@ The contents of these update packages are copyright ZWO&mdash;I make no claims o
 
 ## Table of contents/versions
 
+- v7.06
 - v7.18
 - v7.32
