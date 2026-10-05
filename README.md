@@ -16,3 +16,4 @@ The contents of these update packages are copyright ZWO&mdash;I make no claims o
 - [v7.32](https://github.com/cgobat/seestar-firmware-archive/releases/tag/v7.32)
 - [v7.75](https://github.com/cgobat/seestar-firmware-archive/releases/tag/v7.75)
 - [v8.46](https://github.com/cgobat/seestar-firmware-archive/releases/tag/v8.46)
+- [v9.31](https://github.com/cgobat/seestar-firmware-archive/releases/tag/v9.31)
