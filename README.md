@@ -2,7 +2,11 @@
 
 This repository contains (in the release section) an archive of over-the-air (OTA) update packages from the Seestar (S50, but I think they're the same) smart telescope.
 
-The contents of these update packages are copyright ZWO&mdash;I make no claims of ownership. Because Seestar and ASI Air include/use GPL'd code, they are obligated to release their source code anyway so it should be no problem to share these here.
+This is an unofficial archive provided as a convenience for preservation and reference.
+These firmware packages are distributed with the Seestar app unencrypted, and are uploaded to the device over an open, observable link.
+They contain no credentials, private keys, or other secrets.
+Anyone can obtain the packages through the normal Seestar software/update process; this archive simply provides a convenient way to access them.
+The packages and their contents are owned by ZWO and/or other third parties; I make no claims of ownership.
 
 ## Table of contents/versions
 
